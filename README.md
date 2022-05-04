@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hello, my name is Vinicius Rodrigues! 👋
+### Hello, my name is Vinicius! 👋
 
 I live in brazil, i'm finishing college of Computer Engineering. I fell in love and joined and I've been training in the front-end area since 2019.
 
