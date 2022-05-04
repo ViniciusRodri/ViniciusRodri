@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hello, my name is Vinicius! 👋
+### My name is Vinicius! 👋
 
 I live in brazil, i'm finishing college of Computer Engineering. I am passionate about technology and have been in the programming area since 2019.
 
