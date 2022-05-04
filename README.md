@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### Hello, my name is Vinicius! 👋
 
-I live in brazil, i'm finishing college of Computer Engineering. I fell in love and joined and I've been training in the front-end area since 2019.
+I live in brazil, i'm finishing college of Computer Engineering. I am passionate about technology and have been in the programming area since 2019.
 
-I've always loved technology, and what made me fall in love with the front end was the ability to create new things every day, whether it's solving problems or creating pages.
+Right from the start I really liked the front end area, the ability to create new things every day, whether solving problems or creating pages made me study and train myself to become an even better professional.
 
 
-🇧🇷 Born in Curitiba, Brazil
+🇧🇷 Born in Curitiba, Brazil <br />
 🚀 Student of Computer Engineer
 
  <div>
