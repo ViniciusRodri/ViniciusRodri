@@ -5,7 +5,7 @@ I live in brazil, i'm finishing college of Computer Engineering. I am passionate
 
 
 🇧🇷 Born in Curitiba, Brazil <br />
-🚀 Student of Computer Engineer
+🚀 Computer Engineer
 
 <!--  <div>
   <a href="https://github.com/ViniciusRodri">
