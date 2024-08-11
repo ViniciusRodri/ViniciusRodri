@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Vinicius! 👋
 
-I live in brazil, i'm finishing college of Computer Engineering. I am passionate about technology and have been in the programming area since 2019.
+I live in brazil, i'm have degree in Computer Engineering. I am passionate about technology and have been in the programming area since 2019.
 
 
 🇧🇷 Born in Curitiba, Brazil <br />
